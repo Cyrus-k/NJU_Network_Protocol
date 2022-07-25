@@ -1,0 +1,3 @@
+本项目使用make工具构建，使用我提供的makefile，控制台输入make即可编译。
+
+运行的话./gameserver 以及 ./gameclient 127.0.0.1

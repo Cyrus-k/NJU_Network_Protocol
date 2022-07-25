@@ -1,0 +1,5 @@
+使用我写好的makefile即可，输入make编译，make clean清除。
+
+如果无法使用makefile，使用如下命令也可：
+
+gcc -o myclient myclient.c

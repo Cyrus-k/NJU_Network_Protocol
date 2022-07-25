@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "limits": "c",
+        "cstdio": "c",
+        "topology.h": "c",
+        "son.h": "c"
+    }
+}
